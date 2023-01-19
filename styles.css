@@ -1,1 +1,29 @@
 /* your code */
+ td ,th{
+    border:1px solid gainsboro ;
+    
+    padding: 8px;
+    text-align: center;
+    width:10%
+    
+    
+}
+th{
+    background-color: rgb(103, 144, 220);
+}
+ .row1{
+    background-color: #ddd;
+
+}
+.row2{
+    background-color: rgb(237, 225, 225);
+}
+ .row3{
+    background-color: rgb(241, 231, 231);
+
+}
+.row4{
+    background-color:#ddd;
+}
+
+
